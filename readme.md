@@ -7,4 +7,4 @@
 ![](screenshot.png)
 
 ## Live Demo
-*Hosted in [https://masoud.pro](https://masoud.pro)*
+*Hosted in [http://masoud.pro](http://masoud.pro)*
